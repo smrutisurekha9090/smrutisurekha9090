@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **DSA related stuffs**
 
-- 📫 How to reach me **smrutisurekhasahooknr@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/smruti-surekha-sahoo-499365216/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
