@@ -27,13 +27,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrutisurekha9090&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutisurekha9090&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smrutisurekha9090&show_icons=true&locale=en" alt="smrutisurekha9090" /></p>
 
 
