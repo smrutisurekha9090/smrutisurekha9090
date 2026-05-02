@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smruti Surekha</h1>
+<h3 align="center">Software Engineer @ PwC 💼</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutisurekha9090&label=Profile%20views&color=0e75b6&style=flat" alt="smrutisurekha9090" /> </p>
 
 - 💬 Ask me about **DSA related stuffs**
